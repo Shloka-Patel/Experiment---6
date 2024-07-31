@@ -57,7 +57,7 @@ Output: <br>
 ![]()
 
 (B)<br>
-![]()
+![](github.com/Shloka-Patel/Experiment---6/blob/main/Output_6B.png)
 
 (C)<br>
 ![]()
