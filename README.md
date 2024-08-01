@@ -119,4 +119,4 @@ Output: <br>
 (G)<br> 
 ![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6(G)%20.png) 
 
-Conclusion -> <br> 
+Conclusion -> I learnt about different deciosion making loops of C++ and made programs using those statements like how to print counting numbers or even numbers till a certain rangeand many other programs. <br> 
