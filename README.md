@@ -104,6 +104,6 @@ Output: <br>
 ![]()
 
 (G)<br> 
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6(G)%20.png) 
 
 Conclusion -> <br> 
