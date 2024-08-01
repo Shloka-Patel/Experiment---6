@@ -86,7 +86,7 @@ int main(){
 Output: <br> 
 
 (A)<br> 
-![]()
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6A.png)
 
 (B)<br>
 ![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6B.png)
