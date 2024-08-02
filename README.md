@@ -166,7 +166,7 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6E.png)
 
 (F)<br>
-![]()
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6F.png)
 
 (G)<br> 
 ![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6(G)%20.png) 
