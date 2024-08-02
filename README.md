@@ -126,7 +126,7 @@ Output: <br>
 ![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6C.png)
 
 (D)<br>
-![]()
+![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6D.png)
 
 (E)<br>
 ![]()
