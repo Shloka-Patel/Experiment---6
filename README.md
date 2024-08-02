@@ -6,27 +6,27 @@ Software -> Visual Studio Code<br>
 
 Theory -> (1) For loop - It allows us to repeat a set of instructions for a specific number of time.  <br> 
               Syntax: <br> 
-              for ( initialization; test condition; updation)<rb> 
+              for ( initialization; test condition; updation) <rb> 
               { <br> 
               // body of for loop <br> 
               } <br> 
           (2) While loop - It is used in situations where we do not know the exact number of iterations of the loop beforehand. <br> 
               Syntax: <br> 
-              while (test_expression) <br. 
-              {<br> 
-              // statements<br> 
+              while (test_expression) <br>
+              { <br> 
+              // statements <br> 
  
-              update_expression;<br> 
-              }<br>
+              update_expression; <br> 
+              } <br>
           (3) Do while loop - In the do-while loop the condition is tested at the end of the loop body. <br> 
               Syntax: <br> 
-              do
-              {<br> 
-              // loop body<br>
+              do <br> 
+              { <br> 
+              // loop body <br>
 
-              update_expression;<br> 
+              update_expression; <br> 
               } <br> 
-              while (test_expression);<br>
+              while (test_expression); <br>
 
 Code:<br> 
 
