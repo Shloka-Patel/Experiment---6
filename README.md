@@ -15,9 +15,8 @@ Theory -> (1) For loop - It allows us to repeat a set of instructions for a spec
               while (test_expression) <br>
               { <br> 
               // statements <br> 
- 
-              update_expression; <br> 
-              } <br> 
+               update_expression; <br> 
+              } 
               
 Code:<br> 
 
