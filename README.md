@@ -23,8 +23,7 @@ Theory -> (1) For loop - It allows us to repeat a set of instructions for a spec
               do <br> 
               { <br> 
               // loop body <br>
-
-              update_expression; <br> 
+              update_expression;  
               } <br> 
               while (test_expression); 
 Code:<br> 
