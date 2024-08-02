@@ -16,7 +16,7 @@ Theory -> (1) For loop - It allows us to repeat a set of instructions for a spec
               { <br> 
               // statements <br> 
                update_expression; <br> 
-              } 
+              } <br> 
           (3) Do while loop - It is same as the while loop but tha difference is that in the do-while loop the condition is tested at the end of the loop body. <br> 
           
               Syntax: <br> 
