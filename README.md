@@ -1,10 +1,13 @@
 # Experiment---6
 
-Aim -> To study and implement C++ deciision making statements loops.<br> 
+### Aim 
+To study and implement C++ deciision making statements loops.<br> 
 
-Software -> Visual Studio Code<br> 
+### Software 
+Visual Studio Code<br> 
 
-Theory -> (1) For loop - It allows us to repeat a set of instructions for a specific number of time.  <br> 
+### Theory 
+(1) For loop - It allows us to repeat a set of instructions for a specific number of time.  <br> 
               Syntax: <br> 
               for ( initialization; test condition; updation) <rb> 
               { <br> 
@@ -26,7 +29,7 @@ Theory -> (1) For loop - It allows us to repeat a set of instructions for a spec
               update_expression;  
               } 
               while (test_expression); 
-Code:<br> 
+### Code:<br> 
 
 (A) <br> 
 ```
@@ -168,7 +171,7 @@ int main(){
 } 
 ```
 
-Output: <br> 
+### Output: <br> 
 
 (A)<br> 
 ![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6A.png)
@@ -191,4 +194,5 @@ Output: <br>
 (G)<br> 
 ![](https://github.com/Shloka-Patel/Experiment---6/blob/main/Output_6(G)%20.png) 
 
-Conclusion -> I learnt about different deciosion making loops of C++ and made programs using those statements like how to print counting numbers or even numbers, till a certain range, matrix operations and many other programs. <br> 
+### Conclusion 
+I learnt about different deciosion making loops of C++ and made programs using those statements like how to print counting numbers or even numbers, till a certain range, matrix operations and many other programs. <br> 
