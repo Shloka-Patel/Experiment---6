@@ -20,7 +20,7 @@ Visual Studio Code<br>
               // statements <br> 
                update_expression; <br> 
               } <br> 
-          (3) Do while loop - It is same as the while loop but tha difference is that in the do-while loop the condition is tested at the end of the loop body. <br> 
+          (3) Do while loop - It is the same as the while loop but the difference is that in the do-while loop the condition is tested at the end of the loop body. <br> 
           
               Syntax:
               do
