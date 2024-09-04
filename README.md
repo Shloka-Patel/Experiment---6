@@ -94,6 +94,10 @@ int main()
 
 (D)<br>
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 6(D) 
+
 #include<iostream>
 using namespace std;
 
