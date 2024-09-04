@@ -120,6 +120,10 @@ int main()
 
 (E)<br> 
 ```
+// NAME - SHLOKA PATEL 
+// PRN - 23070123120 
+// EXPERIMENT - 6(E) 
+
 #include <iostream>
 using namespace std;
 
